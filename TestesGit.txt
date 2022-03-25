@@ -1,2 +1,3 @@
 ﻿1- Efetuar Push.
-2- Mudei aqui :/
+2- Merge into issue330.
+3- Mudei aqui :/
